@@ -1,0 +1,19 @@
+[
+    {
+        "id" : 1,
+"username" : "ssd1@gmail.com",
+"password" : "ssd@123"
+    },
+
+    { 
+        "id" : 2,
+"username" : "ssd2@gmail.com",
+"password" : "ssd@123"
+    },
+
+    {
+        "id" : 3,
+"username" : "ssd3@gmail.com",
+"password" : "ssd@123"
+    }
+]

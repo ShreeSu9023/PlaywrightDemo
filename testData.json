@@ -1,0 +1,12 @@
+{
+"username" : "ssd@gmail.com",
+"password" : "ssd@123",
+"name" : "SSD",
+"interest" : "[Cypress,Java,API]",
+"gender" : "Female",
+"address" : {
+              "area" : "A1",
+              "city" : "A2",
+              "pincode" : 101010
+            }
+}
